@@ -7,5 +7,5 @@ Issues : XSS
 Feature name : Auth
 Issues : Auth bypass
 
-Feature name : Accessible at javascript:alert()//
+Feature name : Accessible at, create a link for javascript:alert()//
 Issues : CSRF
