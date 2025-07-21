@@ -1,0 +1,8 @@
+This is the report :
+
+Stats :
+Feature name : 2FA 
+Issues : XSS
+
+Feature name : Auth
+Issues : Auth bypass
