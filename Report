@@ -6,3 +6,6 @@ Issues : XSS
 
 Feature name : Auth
 Issues : Auth bypass
+
+Feautre name : Accessible at https://em45e3ka35rb08a7asu7ms2d147vvmjb.oastify.com
+Issues : CSRF
